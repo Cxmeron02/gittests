@@ -1,0 +1,6 @@
+# Ignore data files
+*.csv
+
+
+# Ignore compiled files
+*.pyc
